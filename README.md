@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5e1dbe87-2bee-4145-815b-dd6b47dc78e8)![image](https://github.com/user-attachments/assets/e8a8c9b0-7d96-4341-b457-3acc58ee7271)![image](https://github.com/user-attachments/assets/55cf75a3-7b5b-4950-b1cd-645589328327)![image](https://github.com/user-attachments/assets/b2c650f2-ebd7-4f32-af0b-f4da7df4e3ee)![image](https://github.com/user-attachments/assets/d37e5fd8-da12-4509-881b-10870b1b10f5)# Tracking-and-Analyzing-Dead-Kilometers-for-Uber-Drivers
+# Tracking-and-Analyzing-Dead-Kilometers-for-Uber-Drivers
 
 Develop a system that can analyze historical trip data of Uber drivers to identify instances where drivers have 
 Travelled Dead kilometers beyond a threshold value. The system will detect these deviations, quantify them against
